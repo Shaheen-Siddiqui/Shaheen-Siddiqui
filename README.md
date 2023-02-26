@@ -1,8 +1,6 @@
 ### Hi there 👋
             
             
-<h3 align="center">A passionate front-end developer</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaheen-siddiqui&label=Profile%20views&color=0e75b6&style=flat" alt="shaheen-siddiqui" /> </p>
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaheen-siddiqui" alt="shaheen-siddiqui" /></a> </p> -->
