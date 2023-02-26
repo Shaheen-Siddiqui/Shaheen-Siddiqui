@@ -5,8 +5,6 @@
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaheen-siddiqui" alt="shaheen-siddiqui" /></a> </p> -->
 
-- 🌱 I’m currently learning **DSA**
-
 - 👨‍💻 All of my projects are available at <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">here</a>
 
 - 💬 Ask me about **Full stack Development**
