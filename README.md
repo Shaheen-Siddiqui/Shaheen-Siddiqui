@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">here</a>
 
-- 💬 Ask me about **Full stack Development**
+- 💬 Ask me about **Development**
 
 - 📫 How to reach me **shanvisiddya@gmail.com**
 
