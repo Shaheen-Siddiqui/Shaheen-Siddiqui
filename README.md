@@ -13,15 +13,7 @@
 
 - 📄 Know about my experiences is <a href="https://drive.google.com/file/d/1vU4Vy10MglWPjMAkNS51O3WgvukK3XXJ/view?usp=sharing">here</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shaheen-siddiqui-7067ab22a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shaheen-siddiqui-7067ab22a/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/shaheen siddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shaheen siddiqui" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shaheensiddiqui123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shaheensiddiqui123" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
-
             
 <center> <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaheen-siddiqui&show_icons=true&locale=en&layout=compact" alt="shaheen-siddiqui" /></p></center>
 
